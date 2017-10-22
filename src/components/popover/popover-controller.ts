@@ -75,6 +75,7 @@ import { DeepLinker } from '../../navigation/deep-linker';
  * that close the popover on click.
  *
  * ```ts
+ * import { ViewController} from 'ionic-angular';
  * @Component({
  *   template: `
  *     <ion-list>
